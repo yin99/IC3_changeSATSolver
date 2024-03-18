@@ -1,3 +1,12 @@
 [submodule "IC3ref"]
 	path = IC3ref
 	url = https://github.com/gipsyh/IC3ref.git
+[submodule "IC3_cadicalsat/minisat"]
+	path = IC3_cadicalsat/minisat
+	url = https://github.com/gipsyh/minisat.git
+[submodule "IC3_cadicalsat/aiger"]
+	path = IC3_cadicalsat/aiger
+	url = https://github.com/arminbiere/aiger.git
+[submodule "IC3_cadicalsat/cadical"]
+	path = IC3_cadicalsat/cadical
+	url = https://github.com/arminbiere/cadical.git
