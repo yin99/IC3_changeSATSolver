@@ -6,3 +6,5 @@
 在IC3_changeSATSolver目录下：  
 运行两个compile... .sh脚本分别编译IC3ref版本和接了cadical版本的IC3代码  
 最后编译好的程序在各自目录内的build文件中  
+
+istrue.sh脚本用于比较两个版本的IC3执行test_example目录下benchmark的结果是否一致
