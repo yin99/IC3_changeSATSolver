@@ -10,3 +10,12 @@
 [submodule "IC3_cadicalsat/cadical"]
 	path = IC3_cadicalsat/cadical
 	url = https://github.com/arminbiere/cadical.git
+[submodule "IC3_cryminsat/aiger"]
+	path = IC3_cryminsat/aiger
+	url = https://github.com/arminbiere/aiger.git
+[submodule "IC3_cryminsat/minisat"]
+	path = IC3_cryminsat/minisat
+	url = https://github.com/gipsyh/minisat.git
+[submodule "IC3_cryminsat/cryptominisat"]
+	path = IC3_cryminsat/cryptominisat
+	url = https://github.com/msoos/cryptominisat.git
